@@ -21,4 +21,5 @@ https://www.youtube.com/watch?v=xVFidZhXiuQ&list=PL4NoNM0L1m7062X3tf0xidWQsLbS92
 
 ![alt text](image.png)
 
-
+Day 3
+ssh -i "C:\Users\HoMinhSang\.ssh\my-ec2-1.pem" ec2-user@ec2-54-199-77-121.ap-northeast-1.compute.amazonaws.com
